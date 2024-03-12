@@ -1,4 +1,4 @@
-# Python MIPT education course 2023 Spring
+# Python MIPT education course 2024 Spring
 
 Лекции 2023 для кафедры образования.
 
